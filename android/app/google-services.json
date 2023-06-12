@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "858527495396",
+    "project_id": "birthday-bash-da43c",
+    "storage_bucket": "birthday-bash-da43c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:858527495396:android:76a81a7494f3c4ae70e8f1",
+        "android_client_info": {
+          "package_name": "birth.day.bash"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "858527495396-p4tdb1pfsffu5cbboc2ikdrfvmspu2h9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbCVXx-gvPZEOojCBIbzPR-mWp0tyVQQc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "858527495396-p4tdb1pfsffu5cbboc2ikdrfvmspu2h9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
